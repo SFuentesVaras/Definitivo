@@ -29,3 +29,8 @@ Tambien se subio el archivo ya nuevo con txt
 pero ns en que momento 
 asi que creare un cuarto archivo para subir al repositro 
 y vere si se sube solo con git add, commit y origin main 
+
+Vuelvo luego todo
+probare lo de subir dos archivos con un solo commit
+actualizacion en 
+cuarto.txt 
