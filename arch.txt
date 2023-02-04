@@ -13,3 +13,10 @@ en vez de git
 tremendo error
 pero se debio a factores externos 
 esta vez todo okey
+
+cuarta vez que entro 
+esta ocasion para aclarar dudas
+sinceramente
+nose porque al pomer el commit
+se deja un mensaje
+de seguro lo descubrire mas adelante 
