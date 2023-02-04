@@ -6,3 +6,10 @@ xd
 Segunda vez que entro
 tiene que salir bien 
 vamoooo
+
+Tercera vez
+en la ultima puse "gitt" 
+en vez de git 
+tremendo error
+pero se debio a factores externos 
+esta vez todo okey
