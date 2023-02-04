@@ -16,3 +16,16 @@ vamo a probar si s por ello
 de lo contraio croe que no se puede subir mas de un archivo al repositorio
 pero eso seria medio meh la vrd 
 asi que no croe
+
+AAAAAAAAAAAA
+CTMR
+AMIGO
+Estaba en otro repositorio en git hub 
+por eos no veia los cambios
+entonces
+se subio el archivo sin .txt
+asi que SI SE PUEDE SUBIR ARCHIVOS SIN EXTENSIONES
+Tambien se subio el archivo ya nuevo con txt 
+pero ns en que momento 
+asi que creare un cuarto archivo para subir al repositro 
+y vere si se sube solo con git add, commit y origin main 
