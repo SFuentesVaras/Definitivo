@@ -10,3 +10,18 @@ se puede subir un archivo sin extension, osea txt o jv y esos
 el nuevo archivo se sube solo con git add, commit y push origin main, no es necesario vincular con el rpositorio denuvo
 Ahora comprobaremos si se puede subir dos archivos de una
 es decir con un solo commit
+
+Okey
+COnfirmamos que si puede hacer eso 
+ahora no tengo mas dudas
+pero durante el proceso
+pense que no se podria
+debido a que al poner el commit se pone un msj perzonalizado
+y crei que tendira que hacerlo para ambos archivos
+hacinedo inutil poner el git add a ambos
+pero el mensaje que puse tal cual se puso para los dos archivos
+asi que no hubo problemas al subirlos
+es mas, al poner el commit te indica que se hizo en ambos archivos 
+asi que ta piola
+se podra con tres? 
+es algo que creo que si pero no lo priabre ahora 
